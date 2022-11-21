@@ -1,0 +1,17 @@
+
+{
+  "short_name": "PWA App",
+  "name": "My first basic PWA App",
+  "start_url": "./",
+  "homepage": "",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "A PWA basic app for flat owners",
+  "icons":[
+    {
+    "src":"/my_pwa/pwaicon.png",                     
+    "sizes":"192x192",
+    "type":"image/png"
+    }
+	]
+}

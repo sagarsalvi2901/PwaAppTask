@@ -1,0 +1,21 @@
+// JavaScript Document
+
+var floorData =   	
+	{ "floorDetails":
+	[
+      	{ "floorId": 1 , "floorName": "First Floor"  }, 
+	  	{ "floorId": 2 , "floorName": "Second Floor" },  
+		{ "floorId": 3 , "floorName": "Third Floor" },  
+		{ "floorId": 4 , "floorName": "Fourth Floor" },  
+		{ "floorId": 5 , "floorName": "Fifth Floor" },  
+		{ "floorId": 6 , "floorName": "Sixth Floor" },  
+		{ "floorId": 7 , "floorName": "Seventh Floore" },  
+		{ "floorId": 8 , "floorName": "Eighth Floor" },  
+		{ "floorId": 9 , "floorName": "Ninth Floor" },  
+		{ "floorId": 10 , "floorName": "Tenth Floor" },  
+		{ "floorId": 11 , "floorName": "Eleventh Floor" },  
+		{ "floorId": 12 , "floorName": "Twelfth Floor" },  
+		{ "floorId": 13 , "floorName": "Thirteenth Floor" }, 
+ 	]
+	}
+   
